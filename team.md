@@ -1,7 +1,7 @@
 Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Patko
+Nazwisko: Dawid
+Ulubiona technologia: Native React
 
 
 
