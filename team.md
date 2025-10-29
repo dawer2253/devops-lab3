@@ -1,7 +1,7 @@
 Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Dawid
+Nazwisko: Pątko
+Ulubiona technologia: React Native
 
 
 
